@@ -98,19 +98,8 @@ footer{
 	padding:20px;
 	justify-content:space-around;
 }
-p {
+.footer_group2 p{
 	width:260px;
-	font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-/* or 171% */
-
-
-/* Dark 75% */
-
-color: rgba(31, 32, 65, 0.75);
 }
 .footer_group2 {
 	padding:30px 20px;
@@ -118,7 +107,7 @@ color: rgba(31, 32, 65, 0.75);
 .footer_mail {
 	padding: 0px 0px 0px 30px;
 }
-h1 {
+h1{
 	padding: 0px 0px 0px 32px;
 	font-family: Montserrat;
 	font-style: normal;
@@ -133,7 +122,7 @@ h1 {
 
 	color: #1F2041;
 }
-.footer li {
+.footer li{
 	list-style-type: none;
 	font-family: Montserrat;
 	font-style: normal;
@@ -151,4 +140,24 @@ h1 {
 	/* Dark 50% */
 
 	color: rgba(31, 32, 65, 1);
+}
+.footer_contacts p{
+	width:500px;
+	padding: 0px 0px 0px 50px;
+}
+.footer_mail p{
+	width:260px;
+}
+p{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	/* or 171% */
+
+
+	/* Dark 75% */
+
+	color: rgba(31, 32, 65, 0.75);
 }
