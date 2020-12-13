@@ -1,0 +1,63 @@
+fieldset {
+	width: 210px;
+	border:0;
+}
+label {
+	font-family: Monsserat;
+}
+input {
+	padding: 3px;
+	border-radius:5px;
+}
+.Enter{
+	background: linear-gradient(0deg, darkblue, blue);
+	color:white;
+	border-radius:5px;
+	padding:5px 3px;
+}
+form {
+border:1px solid #c6c7cc;
+border-radius:5px;
+width:270px;
+overflow:hidden;
+position: fixed;
+left:8%;
+top:15%;}
+.Account_info {
+	padding:20px 20px 0px 20px;
+}
+.Account_info label{
+	color:#395870;
+	display: block;
+	font-weight:bold;
+	margin-bottom: 0px;
+}
+.Account_info input{
+	background: #fff;
+	border:1px solid #c6c7cc;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.1);
+	color:636466;
+	padding: 6px;
+	margin-top:6px;
+	width:100%;
+	margin-bottom:20px;
+}
+.Account_action {
+	background: #fff;
+	border-top:1px solid #c6c7cc;
+	padding:20px;
+	width:100%;
+}
+.Account_action label{
+	color: #7c7c80;
+	font-size:12px;
+	float:right;
+	margin-right: 96px;
+	margin-top:11px;
+}
+.Enter {
+	border-radius:10px;
+	font-size:20px;
+	cursor:pointer;
+	width: 25%;
+}
