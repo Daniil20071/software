@@ -1,0 +1,65 @@
+body{
+	width: 100%;
+	margin: 0;
+	
+}
+header{
+	height: 180px;
+	border: 3px solid gray;
+	position:;
+}
+header a{
+	text-decoration: none;
+	color:black;
+}
+header ul{
+	list-style-type: none;
+	margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    margin-left: 70px;
+    margin-top:50px;
+    
+}
+header li{
+	display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+    
+    font-size: 26px;
+}
+header h1{
+	margin-left:70px;
+}
+.description p{
+	font-size: 2em;
+}
+a{
+	color:darkblue;
+	text-decoration: none;
+}
+.ip1{
+	margin-left: 40px;
+	width:540px;
+	float: left;
+}
+.ip2{
+	margin-right:40px;
+	
+	width: 540px;
+	float: right;
+}
+footer p{
+	font-size: 22px;
+}
+ul{
+	list-style-type: none;
+}
+.contacts li,p{
+	font-size: 2em;
+}
+li,p,h1,a,h2,h3,ol{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+main li{
+	font-size: 26px;
+}
